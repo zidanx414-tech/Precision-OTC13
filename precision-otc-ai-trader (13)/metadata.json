@@ -1,0 +1,5 @@
+{
+  "name": "Precision OTC AI Trader",
+  "description": "A sophisticated AI-powered trading signal dashboard for OTC markets featuring high-precision entry timing, multi-indicator analysis, and Gemini-driven probability scoring.",
+  "requestFramePermissions": []
+}
